@@ -4,7 +4,7 @@
 <p align="center">A Planner Who Shares Love While Looking in the Same Direction.<br>
 "Love is not two people looking at each other, but looking in the same direction together."</p>
 
-- 🔭 I’m currently working on: [Pawnies](https://pilgaaang.notion.site/15f2708418bc80b9a485d3e011aa6703?pvs=4)
+- 🔭 I’m currently working on: (주)퍼니즈(Pawnies Co., Ltd.)
 - 🌱 I’m currently learning: **Spring Framework**
 - 👨‍💻 My projects: [View All Projects](https://pilgaaang.notion.site/91ae83c5c896433790ce3f0bdf3e9718?pvs=4)
 - 📫 Reach me: **pilgaaang@gmail.com**
